@@ -1,1 +1,10 @@
-[click here to view the patient flow documet](./20TextDocument%20(2).txt)
+
+# Patient Flow Project
+
+This repository contains documentation regarding patient flow and hospital management.
+
+## Documentation
+* [View Patient Flow Document](./patient_flow.txt)
+
+## About
+This project aims to track and improve the efficiency of patient movements.
