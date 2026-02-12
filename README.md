@@ -4,7 +4,7 @@
 This repository contains documentation regarding patient flow and hospital management.
 
 ## Documentation
-* [View Patient Flow Document](./patient_flow.txt)
+* [View Patient Flow Document](./patient_flow.html)
 
 ## About
 This project aims to track and improve the efficiency of patient movements.
